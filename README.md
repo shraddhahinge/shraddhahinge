@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on *real-time applications.*
 - 🌱 I’m currently learning *React-Redux toolkit and API integration and implementation.*
 
-- 😄 My Formuls: 
+- 😄 My Formula: 
      ```javascript
       {
           excersice();
