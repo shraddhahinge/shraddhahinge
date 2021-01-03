@@ -14,20 +14,20 @@
 - 🌱 I’m currently learning *React-Redux toolkit and API integration and implementation.*
 
 - 😄 My Formuls: 
- ```javascript
-  {
-      excersice();
-      code();
-      coffee();
-      break;
-   }
-   continue;
- ```
+     ```javascript
+      {
+          excersice();
+          code();
+          coffee();
+          break;
+       }
+       continue;
+     ```
    
 - ⚡ Fun fact:
- ```javascript
- {!false}
+    ```javascript
+    {!false}
     Because its true.
- ```
+    ```
 
 [![Shraddha's github stats](https://github-readme-stats.vercel.app/api?username=shraddhahinge)](https://github.com/shraddhahinge/github-readme-stats)
