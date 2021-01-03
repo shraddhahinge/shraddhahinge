@@ -25,3 +25,4 @@
  > {!false}
     Because its true.
 
+[![Shraddha's github stats](https://github-readme-stats.vercel.app/api?username=shraddhahinge)](https://github.com/shraddhahinge/github-readme-stats)
