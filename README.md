@@ -1,7 +1,7 @@
 ## Hi I'm Shraddha 👋🏻👩🏻‍💻
 [Instagram](https://www.instagram.com/_girlwhocode_/) | [Linked-in](https://www.linkedin.com/in/shraddha-hinge-280874137/)
 
-### I'm a design-minded front-end software engineer focused on building beautiful interface & experiences.👩🏻‍💻
+#### I'm a design-minded front-end software engineer focused on building beautiful interface & experiences.👩🏻‍💻 :rocket:
 
 #### About Me:
   * I'm a passionate front-end developer and enthusiactic programmer, always pumped to creating new projects out there. I have experience developing and designing web application, from simple landing pages to progressive web applications.
