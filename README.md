@@ -29,7 +29,7 @@ I am a **Full Stack Developer** with nearly **4 years of comprehensive experienc
 #### What I do:
 
 - 🔭 I’m currently working on *real-time applications.*
-- 🌱 I’m currently learning *React-Redux toolkit and API integration and implementation.*
+- 🌱 I’m currently learning *Python, Gen AI, Nodejs*
 
 - 😄 My Formula: 
      ```javascript
