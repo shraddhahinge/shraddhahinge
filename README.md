@@ -12,13 +12,11 @@ I am a **Full Stack Developer** with nearly **4 years of comprehensive experienc
 **Web Development:** Primarily focused on creating various websites, transforming ideas into functional, user-friendly web applications.🌍✨
 
 ### 🚀 Passion and Drive
-💻 I am an enthusiastic coder with a passion for building projects. 
+- 💻 I am an enthusiastic coder with a passion for building projects. 
 
-💡 My drive for coding pushes me to continuously learn and adopt the latest technologies and best practices in web development. 
+- 💡 My drive for coding pushes me to continuously learn and adopt the latest technologies and best practices in web development. 
 
-📚 I thrive on the challenge of solving complex problems and take pride in my ability to contribute to team success and deliver exceptional results for clients.
-
-🏆🤝
+- 📚 I thrive on the challenge of solving complex problems and take pride in my ability to contribute to team success and deliver exceptional results for clients.
 
 ### 🔧 Skills
 
